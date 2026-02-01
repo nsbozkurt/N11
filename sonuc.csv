@@ -1,0 +1,104 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1769960457088,5343,Ana sayfa,200,OK,Arama 1-1,text,true,,76877,341,1,1,https://www.n11.com/,5285,0,4940
+1769960462791,136,Arama - Telefon,200,OK,Arama 1-1,text,true,,85359,356,1,1,https://www.n11.com/arama?q=telefon,78,0,0
+1769960456274,6653,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162236,697,1,1,null,5363,0,4940
+1769960463586,317,Ana sayfa,200,OK,Arama 1-1,text,true,,76598,341,1,1,https://www.n11.com/,306,0,0
+1769960464396,110,Arama - Telefon,200,OK,Arama 1-1,text,true,,86106,356,1,1,https://www.n11.com/arama?q=telefon,92,0,0
+1769960462928,1579,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162704,697,1,1,null,398,0,0
+1769960465205,355,Ana sayfa,200,OK,Arama 1-1,text,true,,76679,341,1,1,https://www.n11.com/,341,0,0
+1769960466240,114,Arama - Telefon,200,OK,Arama 1-1,text,true,,85095,356,1,1,https://www.n11.com/arama?q=telefon,95,0,0
+1769960464507,1847,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161774,697,1,1,null,436,0,0
+1769960467101,374,Ana sayfa,200,OK,Arama 1-1,text,true,,76783,341,1,1,https://www.n11.com/,336,0,0
+1769960468182,290,Arama - Telefon,200,OK,Arama 1-1,text,true,,85359,356,1,1,https://www.n11.com/arama?q=telefon,271,0,0
+1769960466353,2120,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162142,697,1,1,null,607,0,0
+1769960469188,308,Ana sayfa,200,OK,Arama 1-1,text,true,,77371,341,1,1,https://www.n11.com/,299,0,0
+1769960470213,108,Arama - Telefon,200,OK,Arama 1-1,text,true,,85351,356,1,1,https://www.n11.com/arama?q=telefon,93,0,0
+1769960468473,1848,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162722,697,1,1,null,392,0,0
+1769960470783,326,Ana sayfa,200,OK,Arama 1-1,text,true,,76762,341,1,1,https://www.n11.com/,313,0,0
+1769960471859,101,Arama - Telefon,200,OK,Arama 1-1,text,true,,85359,356,1,1,https://www.n11.com/arama?q=telefon,85,0,0
+1769960470321,1639,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162121,697,1,1,null,398,0,0
+1769960472303,280,Ana sayfa,200,OK,Arama 1-1,text,true,,76636,341,1,1,https://www.n11.com/,268,0,0
+1769960473306,92,Arama - Telefon,200,OK,Arama 1-1,text,true,,85343,356,1,1,https://www.n11.com/arama?q=telefon,78,0,0
+1769960471960,1438,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161979,697,1,1,null,346,0,0
+1769960474136,563,Ana sayfa,200,OK,Arama 1-1,text,true,,76500,341,1,1,https://www.n11.com/,544,0,0
+1769960475247,93,Arama - Telefon,200,OK,Arama 1-1,text,true,,85351,356,1,1,https://www.n11.com/arama?q=telefon,77,0,0
+1769960473398,1943,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161851,697,1,1,null,621,0,0
+1769960475695,354,Ana sayfa,200,OK,Arama 1-1,text,true,,76606,341,1,1,https://www.n11.com/,341,0,0
+1769960476735,97,Arama - Telefon,200,OK,Arama 1-1,text,true,,85359,356,1,1,https://www.n11.com/arama?q=telefon,78,0,0
+1769960475341,1492,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161965,697,1,1,null,419,0,0
+1769960477181,319,Ana sayfa,200,OK,Arama 1-1,text,true,,76465,341,1,1,https://www.n11.com/,309,0,0
+1769960478253,118,Arama - Telefon,200,OK,Arama 1-1,text,true,,85351,356,1,1,https://www.n11.com/arama?q=telefon,100,0,0
+1769960476833,1539,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161816,697,1,1,null,409,0,0
+1769960479018,294,Ana sayfa,200,OK,Arama 1-1,text,true,,76645,341,1,1,https://www.n11.com/,282,0,0
+1769960480072,101,Arama - Telefon,200,OK,Arama 1-1,text,true,,85359,356,1,1,https://www.n11.com/arama?q=telefon,84,0,0
+1769960478372,1801,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162004,697,1,1,null,366,0,0
+1769960480722,304,Ana sayfa,200,OK,Arama 1-1,text,true,,76613,341,1,1,https://www.n11.com/,282,0,0
+1769960481669,126,Arama - Telefon,200,OK,Arama 1-1,text,true,,85359,356,1,1,https://www.n11.com/arama?q=telefon,112,0,0
+1769960480173,1622,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161972,697,1,1,null,394,0,0
+1769960482490,276,Ana sayfa,200,OK,Arama 1-1,text,true,,76707,341,1,1,https://www.n11.com/,260,0,0
+1769960483263,156,Arama - Telefon,200,OK,Arama 1-1,text,true,,85364,356,1,1,https://www.n11.com/arama?q=telefon,141,0,0
+1769960481795,1624,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162071,697,1,1,null,401,0,0
+1769960483762,349,Ana sayfa,200,OK,Arama 1-1,text,true,,77354,341,1,1,https://www.n11.com/,340,0,0
+1769960484853,91,Arama - Telefon,200,OK,Arama 1-1,text,true,,85351,356,1,1,https://www.n11.com/arama?q=telefon,79,0,0
+1769960483419,1527,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162705,697,1,1,null,419,0,0
+1769960485403,324,Ana sayfa,200,OK,Arama 1-1,text,true,,76810,341,1,1,https://www.n11.com/,304,0,0
+1769960486315,98,Arama - Telefon,200,OK,Arama 1-1,text,true,,85351,356,1,1,https://www.n11.com/arama?q=telefon,86,0,0
+1769960484946,1468,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162161,697,1,1,null,390,0,0
+1769960486938,285,Ana sayfa,200,OK,Arama 1-1,text,true,,76589,341,1,1,https://www.n11.com/,273,0,0
+1769960487988,95,Arama - Telefon,200,OK,Arama 1-1,text,true,,85356,356,1,1,https://www.n11.com/arama?q=telefon,76,0,0
+1769960486414,1670,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161945,697,1,1,null,349,0,0
+1769960488689,279,Ana sayfa,200,OK,Arama 1-1,text,true,,76661,341,1,1,https://www.n11.com/,267,0,0
+1769960489432,116,Arama - Telefon,200,OK,Arama 1-1,text,true,,85356,356,1,1,https://www.n11.com/arama?q=telefon,99,0,0
+1769960488084,1464,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162017,697,1,1,null,366,0,0
+1769960490044,289,Ana sayfa,200,OK,Arama 1-1,text,true,,76482,341,1,1,https://www.n11.com/,276,0,0
+1769960490760,98,Arama - Telefon,200,OK,Arama 1-1,text,true,,85356,356,1,1,https://www.n11.com/arama?q=telefon,81,0,0
+1769960489548,1310,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161838,697,1,1,null,357,0,0
+1769960491648,367,Ana sayfa,200,OK,Arama 1-1,text,true,,76796,341,1,1,https://www.n11.com/,362,0,0
+1769960492460,100,Arama - Telefon,200,OK,Arama 1-1,text,true,,85367,356,1,1,https://www.n11.com/arama?q=telefon,85,0,0
+1769960490858,1702,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162163,697,1,1,null,447,0,0
+1769960493325,461,Ana sayfa,200,OK,Arama 1-1,text,true,,76804,341,1,1,https://www.n11.com/,456,0,0
+1769960494277,94,Arama - Telefon,200,OK,Arama 1-1,text,true,,85364,356,1,1,https://www.n11.com/arama?q=telefon,80,0,0
+1769960492560,1812,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162168,697,1,1,null,536,0,0
+1769960494809,308,Ana sayfa,200,OK,Arama 1-1,text,true,,76543,341,1,1,https://www.n11.com/,279,0,0
+1769960495726,88,Arama - Telefon,200,OK,Arama 1-1,text,true,,85101,356,1,1,https://www.n11.com/arama?q=telefon,77,0,0
+1769960494372,1443,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161644,697,1,1,null,356,0,0
+1769960496140,318,Ana sayfa,200,OK,Arama 1-1,text,true,,76463,341,1,1,https://www.n11.com/,302,0,0
+1769960496772,94,Arama - Telefon,200,OK,Arama 1-1,text,true,,85359,356,1,1,https://www.n11.com/arama?q=telefon,80,0,0
+1769960495815,1052,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161822,697,1,1,null,382,0,0
+1769960497564,328,Ana sayfa,200,OK,Arama 1-1,text,true,,76780,341,1,1,https://www.n11.com/,311,0,0
+1769960498197,102,Arama - Telefon,200,OK,Arama 1-1,text,true,,85095,356,1,1,https://www.n11.com/arama?q=telefon,85,0,0
+1769960496867,1433,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161875,697,1,1,null,396,0,0
+1769960498721,354,Ana sayfa,200,OK,Arama 1-1,text,true,,76554,341,1,1,https://www.n11.com/,342,0,0
+1769960499378,93,Arama - Telefon,200,OK,Arama 1-1,text,true,,85103,356,1,1,https://www.n11.com/arama?q=telefon,84,0,0
+1769960498300,1171,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161657,697,1,1,null,426,0,0
+1769960500208,313,Ana sayfa,200,OK,Arama 1-1,text,true,,77355,341,1,1,https://www.n11.com/,273,0,0
+1769960500962,106,Arama - Telefon,200,OK,Arama 1-1,text,true,,85364,356,1,1,https://www.n11.com/arama?q=telefon,94,0,0
+1769960499471,1598,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162719,697,1,1,null,367,0,0
+1769960501845,361,Ana sayfa,200,OK,Arama 1-1,text,true,,76580,341,1,1,https://www.n11.com/,351,0,0
+1769960502966,92,Arama - Telefon,200,OK,Arama 1-1,text,true,,85356,356,1,1,https://www.n11.com/arama?q=telefon,80,0,0
+1769960501069,1989,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161936,697,1,1,null,431,0,0
+1769960503522,336,Ana sayfa,200,OK,Arama 1-1,text,true,,76822,341,1,1,https://www.n11.com/,313,0,0
+1769960504474,112,Arama - Telefon,200,OK,Arama 1-1,text,true,,85367,356,1,1,https://www.n11.com/arama?q=telefon,81,0,0
+1769960503058,1528,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162189,697,1,1,null,394,0,0
+1769960505322,375,Ana sayfa,200,OK,Arama 1-1,text,true,,76570,341,1,1,https://www.n11.com/,333,0,0
+1769960506045,84,Arama - Telefon,200,OK,Arama 1-1,text,true,,85343,356,1,1,https://www.n11.com/arama?q=telefon,71,0,0
+1769960504587,1542,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161913,697,1,1,null,404,0,0
+1769960506867,301,Ana sayfa,200,OK,Arama 1-1,text,true,,76641,341,1,1,https://www.n11.com/,275,0,0
+1769960507729,94,Arama - Telefon,200,OK,Arama 1-1,text,true,,85364,356,1,1,https://www.n11.com/arama?q=telefon,78,0,0
+1769960506129,1693,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162005,697,1,1,null,353,0,0
+1769960508607,329,Ana sayfa,200,OK,Arama 1-1,text,true,,76558,341,1,1,https://www.n11.com/,312,0,0
+1769960509638,89,Arama - Telefon,200,OK,Arama 1-1,text,true,,85104,356,1,1,https://www.n11.com/arama?q=telefon,73,0,0
+1769960507823,1904,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161662,697,1,1,null,385,0,0
+1769960510197,263,Ana sayfa,200,OK,Arama 1-1,text,true,,76596,341,1,1,https://www.n11.com/,250,0,0
+1769960510814,98,Arama - Telefon,200,OK,Arama 1-1,text,true,,85356,356,1,1,https://www.n11.com/arama?q=telefon,85,0,0
+1769960509727,1185,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161952,697,1,1,null,335,0,0
+1769960511394,262,Ana sayfa,200,OK,Arama 1-1,text,true,,76835,341,1,1,https://www.n11.com/,252,0,0
+1769960512321,122,Arama - Telefon,200,OK,Arama 1-1,text,true,,85372,356,1,1,https://www.n11.com/arama?q=telefon,107,0,0
+1769960510912,1532,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162207,697,1,1,null,359,0,0
+1769960513020,285,Ana sayfa,200,OK,Arama 1-1,text,true,,76626,341,1,1,https://www.n11.com/,274,0,0
+1769960513959,95,Arama - Telefon,200,OK,Arama 1-1,text,true,,85372,356,1,1,https://www.n11.com/arama?q=telefon,80,0,0
+1769960512444,1611,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,161998,697,1,1,null,354,0,0
+1769960514639,320,Ana sayfa,200,OK,Arama 1-1,text,true,,77223,341,1,1,https://www.n11.com/,307,0,0
+1769960515746,104,Arama - Telefon,200,OK,Arama 1-1,text,true,,85364,356,1,1,https://www.n11.com/arama?q=telefon,84,0,0
+1769960514055,1795,TX - Arama Akışı,200,"Number of samples in transaction : 2, number of failing samples : 0",Arama 1-1,,true,,162587,697,1,1,null,391,0,0
+1769960516183,282,Ana sayfa,200,OK,Arama 1-1,text,true,,76751,341,1,1,https://www.n11.com/,265,0,0

@@ -1,1 +1,3 @@
-# N11
+Case 2 - Load Test : Jmeter ile n11 arama ve listeleme yük testini komutla koşulabilmesi için .jmx dosyasını bulunduğu klasörde raporun oluşması için bir rapor dosyası oluşturmanız ve aşağıdaki komutu bilgisayarınızda .jmx  dosyasının bulunduğu klaösöre gidip komut istemcisini çalıştırmanız gerekmektedir.
+->jmeter -n -t Test Planı Adı.jmx -l Oluşturduğunuz Klasörün Yolu\sonuc.csv -e -o Oluşturduğunuz Klasörün Yolu
+Bu komut test planınızı bulup yük testinizi koşar ve sonrasında oluşturduğunuz rapor klaösüründe rapor oluşturur. Rapor klasöründeki .html uzantılı dosya ile raporun özeti görülebilir.
